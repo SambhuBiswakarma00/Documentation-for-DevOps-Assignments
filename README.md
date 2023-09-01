@@ -1,2 +1,2 @@
 # Documentation-for-Practicals
-For documenting the steps to resolve the errors and complete the assignments and case studies
+For documenting the steps to do assignments and case studies of the DevOps Module. And also documenting the error and problems that i faced during the tasks and how i resolved them.
